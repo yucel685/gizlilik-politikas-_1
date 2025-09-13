@@ -19,20 +19,20 @@ We greatly respect your privacy, which is why we make every effort to provide a 
 
 This Privacy Policy may be updated from time to time and therefore we ask you to check back periodically for the latest version of the Privacy Policy, as indicated below. If there will be any significant changes made to the use of your Personal Data in a manner different from that stated at the time of collection, we will notify you by posting a notice in our application or by other means.
 
-What information we collect, why we collect it, and how it is used
+1-What information we collect, why we collect it, and how it is used
 When you create an account and make use of our services as a registered user
 When you browse or visit our application
 When you contact us (e.g. customer support, help, submit a request)
 When we process your job application
 
-How we protect and store your personal data
+2-How we protect and store your personal data
 Security. We have implemented appropriate technical, organizational and security measures designed to reduce the risk of accidental destruction or loss, or the unauthorized disclosure or access to such information appropriate to the nature of the information concerned. However, please note that we cannot guarantee that the information will not be exposed as a result of unauthorized penetration to our servers. As the security of information depends in part on the security of the computer, device or network you use to communicate with us and the security you use to protect your user IDs and passwords, please make sure to take appropriate measures to protect this information.
 
 Retention of your Personal Data. In addition to the retention periods mentioned in Section 1 above, in some circumstances we may store your Personal Data for longer periods of time, for example (i) where we are required to do so in accordance with legal, regulatory, tax or accounting requirements, or (ii) for us to have an accurate record of your dealings with us in the event of any complaints or challenges, or (iii) if we reasonably believe there is a prospect of litigation relating to your Personal Data or dealings.
 
 Compliance with API Data Use Policies. In compliance with Google Workspace API policies, we do not use or retain data obtained through these APIs to train, improve, or develop non-personalized machine learning (ML) or artificial intelligence (AI) models. User data is handled responsibly and solely for purposes aligned with providing and enhancing our services.
 
-How we share your personal data
+3-How we share your personal data
 In addition to the recipients described in Section 1, we may share your information as follows:
 
 To the extent necessary, with regulators, to comply with all applicable laws, regulations and rules, and requests of law enforcement, regulatory and other governmental agencies or if required to do so by court order;
@@ -40,7 +40,7 @@ If, in the future, we sell or transfer some or all of our business or assets to 
 Where you have provided your consent to us sharing the Personal Data (e.g., where you provide us with marketing consents or opt-in to optional additional services or functionality); and
 Where we receive requests for information from law enforcement or regulators, we carefully validate these requests before any Personal Data is disclosed.
 
-Additional information regarding transfers of personal data
+4-Additional information regarding transfers of personal data
 Access from Israel is covered by the Adequacy Decision issued by the European Commission about Israel, where it stated that Israel is a jurisdiction that provides adequate level of data protection.
 
 Internal transfers: Your Personal Data may be transferred within the YeniSen group. We implement sufficient measures to ensure that Personal Data receives an adequate and consistent level of protection wherever it is transferred to;
@@ -50,7 +50,7 @@ External transfers: Where we transfer your Personal Data outside of YeniSen, for
 
 Where we receive requests for Personal Data from law enforcement or regulators, we carefully validate these requests before any Personal Data is disclosed.
 
-Your rights
+5-Your rights
 The following rights (which may be subject to certain exemptions or derogations), shall apply to certain individuals (some of which only apply to individuals protected by the GDPR in certain circumstances):
 
 You have a right to access information held about you. Your right of access is normally be exercised free of charge, however we reserve the right to charge an appropriate administrative fee where permitted by applicable law;
@@ -67,41 +67,41 @@ You can exercise your rights by contacting us at nevrahteknoloji@gmail.com
 
 In the event that your request would adversely affect the rights and freedoms of others (for example, would impact the duty of confidentiality we owe to others) or if we are legally entitled to deal with your request in a different way than initial requested, we will address your request to the maximum extent possible, all in accordance with applicable law.
 
-Use of anonymous information
+6-Use of anonymous information
 We may use Anonymous Information (as defined below) or disclose it to third party service providers in order to improve our application and services and enhance your experience with the application. We may also disclose Anonymous Information (with or without compensation) to third parties, including advertisers and partners. “Anonymous Information” means information which does not enable identification of an individual user, such as aggregated information about the use of our application.
 
-Use by children
+7-Use by children
 We do not offer our products or services for use by children. If you are under 18, you may not use the product, or provide any information to the product without involvement of a parent or a guardian. We do not knowingly collect information from, and/or about children.
 
-How can I delete my account?
+8-How can I delete my account?
 Should you ever decide to delete your Account, you may do so by emailing nevrahteknoloji@gmail.com
 . If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
 
-Links to and interaction with third party product
+9-Links to and interaction with third party product
 The Product may enable you to interact with or contain links to your Third Party Account and other third party websites, mobile software applications and services that are not owned or controlled by us (each a “Third Party Service”). We are not responsible for the privacy practices or the content of such Third Party Services. Please be aware that Third Party Services may collect Personal Information from you. Accordingly, we encourage you to read the terms and conditions and privacy policy of each Third Party Service that you choose to use or interact with.
 
-Log files
+10-Log files
 We may make use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, clicked pages and any other information your browser or mobile device may send to us. We may use such information to analyze trends, administer the application, track users’ movement around the application, and gather demographic information.
 
-Location Information
+11-Location Information
 YeniSen asks for location permissions for the sole purpose of providing location based reminders. No location information is stored on YeniSen servers.
 
-Contacts Information
+12-Contacts Information
 YeniSen asks for access to contact lists for the sole purpose of providing an easier way for users to collaborate with members of their contact list. When the user selects a contact from their list some details may be sent to our servers for generating an invitation for the selected contacts. Such details may include email address and contact name.
 
-Cookies and other tracking technologies
+13-Cookies and other tracking technologies
 Our application may utilize “cookies”, anonymous identifiers and other tracking technologies in order for us to provide our Service and present you with information that is customized for you. A “cookie” is a small text file that may be used, for example, to collect information about activity on the application. Certain cookies and other technologies may serve to recall Personal Information, such as an IP address, previously indicated by a user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.
 
-Use of External Analytics Tools
+14-Use of External Analytics Tools
 We use analytics tools (e.g. Google Analytics) to collect data about the use of the application. Analytics tools collect data such as on how often users visit the application, what pages they visit when they do so and what website they directly came from to the application. We use the data we get from these tools to maintain and improve the application and our other products.
 
-U.S. Privacy Provisions
+15-U.S. Privacy Provisions
 California privacy rights. California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of Personal Data to third parties for their direct marketing purposes. To make such a request, please send an email to nevrahteknoloji@gmail.com
 . Please note that we are only required to respond to one request per customer each year.
 
 Our “California do not track” notice. We do not track consumers over time and across third-party websites and therefore do not respond to DO Not Track signals. We do not allow third parties to collect personally identifiable information about individuals consumer’s online activities over time and across different websites when a consumer uses the application.
 
-How to contact us
+16-How to contact us
 If you have any questions, concerns or complaints regarding our compliance with this notice and the data protection laws, or if you wish to exercise your rights, we encourage you to first contact us at nevrahteknoloji@gmail.com
 .
 
