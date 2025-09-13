@@ -1,143 +1,108 @@
-Yenisen Gizlilik Politikası
+YeniSen Privacy Policy
 
-Gizlilik Politikası
-Son güncelleme: 10 Ağustos 2025
+This privacy policy (“Privacy Policy”) governs how we, YeniSen and its affiliates (“YeniSen” “we”, “our” or “us”) use, collect and store information pertaining to you (“User”, “you”), such as in the following use cases:
 
-Bu Gizlilik Politikası, Hizmeti kullandığınızda Bilgilerinizin toplanması, kullanılması ve ifşa edilmesine ilişkin politikalarımızı ve prosedürlerimizi açıklar ve size gizlilik haklarınız ve kanunun sizi nasıl koruduğu hakkında bilgi verir.
+When you browse or visit our application or website;
+When you make use of, or interact with, our application(s) / service(s), and the services provided thereunder (collectively referred to as the “Services”):
+When you create an account and login
+When you make use of our services as a registered user
+When you share and/or reply in our blog
+When you subscribe to our newsletters
+When we process your job application
+When you contact us (e.g. customer support, help, submit a request)
+When you attend a marketing event and provide Personal Data
+When you exchange business cards with us
+When we use the Personal Data of our service providers
+When we use the Personal Data of our customers
 
-Kişisel verilerinizi, Hizmeti sunmak ve iyileştirmek için kullanıyoruz. Hizmeti kullanarak, bilgilerin bu Gizlilik Politikası uyarınca toplanmasını ve kullanılmasını kabul etmiş olursunuz. Bu Gizlilik Politikası , Gizlilik Politikası Oluşturucu yardımıyla oluşturulmuştur .
+We greatly respect your privacy, which is why we make every effort to provide a platform that would live up to the highest of user privacy standards. Please read this Privacy Policy carefully, so you can fully understand our practices in relation to Personal Data. “Personal Data” means any information that can be used, alone or together with other data, to uniquely identify any living human being. Please note that this is a master privacy policy and some of its provisions only apply to individuals in certain jurisdictions. For example, the legal basis in the table below is only relevant for GDPR-protected individuals.
 
-Yorumlama ve Tanımlar
-Tercüme
-İlk harfi büyük olan sözcükler, aşağıdaki koşullar altında tanımlanan anlamlara sahiptir. Aşağıdaki tanımlar, tekil veya çoğul olarak görünseler bile aynı anlamı taşıyacaktır.
+This Privacy Policy may be updated from time to time and therefore we ask you to check back periodically for the latest version of the Privacy Policy, as indicated below. If there will be any significant changes made to the use of your Personal Data in a manner different from that stated at the time of collection, we will notify you by posting a notice in our application or by other means.
 
-Tanımlar
-Bu Gizlilik Politikasının amaçları doğrultusunda:
+What information we collect, why we collect it, and how it is used
+When you create an account and make use of our services as a registered user
+When you browse or visit our application
+When you contact us (e.g. customer support, help, submit a request)
+When we process your job application
 
-Hesap, Hizmetimize veya Hizmetimizin bölümlerine erişmeniz için sizin adınıza oluşturulan benzersiz bir hesap anlamına gelir.
+How we protect and store your personal data
+Security. We have implemented appropriate technical, organizational and security measures designed to reduce the risk of accidental destruction or loss, or the unauthorized disclosure or access to such information appropriate to the nature of the information concerned. However, please note that we cannot guarantee that the information will not be exposed as a result of unauthorized penetration to our servers. As the security of information depends in part on the security of the computer, device or network you use to communicate with us and the security you use to protect your user IDs and passwords, please make sure to take appropriate measures to protect this information.
 
-Bağlı kuruluş , bir tarafı kontrol eden, onun tarafından kontrol edilen veya onunla ortak kontrol altında olan bir kuruluş anlamına gelir; burada "kontrol", yönetim kurulu üyelerinin veya diğer yönetim otoritesinin seçiminde oy kullanma hakkı veren hisselerin, öz sermaye payının veya diğer menkul kıymetlerin %50 veya daha fazlasına sahip olmak anlamına gelir.
+Retention of your Personal Data. In addition to the retention periods mentioned in Section 1 above, in some circumstances we may store your Personal Data for longer periods of time, for example (i) where we are required to do so in accordance with legal, regulatory, tax or accounting requirements, or (ii) for us to have an accurate record of your dealings with us in the event of any complaints or challenges, or (iii) if we reasonably believe there is a prospect of litigation relating to your Personal Data or dealings.
 
-Uygulama , Şirket tarafından sağlanan yazılım programı olan Yenisen'i ifade eder.
+Compliance with API Data Use Policies. In compliance with Google Workspace API policies, we do not use or retain data obtained through these APIs to train, improve, or develop non-personalized machine learning (ML) or artificial intelligence (AI) models. User data is handled responsibly and solely for purposes aligned with providing and enhancing our services.
 
-Şirket (bu Sözleşmede "Şirket", "Biz", "Bize" veya "Bizim" olarak anılacaktır) Yenisen'i ifade eder.
+How we share your personal data
+In addition to the recipients described in Section 1, we may share your information as follows:
 
-Ülke şu anlama gelir: Türkiye
+To the extent necessary, with regulators, to comply with all applicable laws, regulations and rules, and requests of law enforcement, regulatory and other governmental agencies or if required to do so by court order;
+If, in the future, we sell or transfer some or all of our business or assets to a third party, we will (to the minimum extent required) disclose information to a potential or actual third party purchaser of our business or assets. In the event that we are acquired by or merged with a third party entity, or in the event of bankruptcy or a comparable event, we reserve the right to transfer or assign Personal Data in connection with the foregoing events.
+Where you have provided your consent to us sharing the Personal Data (e.g., where you provide us with marketing consents or opt-in to optional additional services or functionality); and
+Where we receive requests for information from law enforcement or regulators, we carefully validate these requests before any Personal Data is disclosed.
 
-Cihaz, bilgisayar, cep telefonu veya dijital tablet gibi Servise erişebilen herhangi bir cihaz anlamına gelir.
+Additional information regarding transfers of personal data
+Access from Israel is covered by the Adequacy Decision issued by the European Commission about Israel, where it stated that Israel is a jurisdiction that provides adequate level of data protection.
 
-Kişisel Veri, belirli veya belirlenebilir bir gerçek kişiye ilişkin her türlü bilgidir.
+Internal transfers: Your Personal Data may be transferred within the YeniSen group. We implement sufficient measures to ensure that Personal Data receives an adequate and consistent level of protection wherever it is transferred to;
 
-Hizmet , Uygulamayı ifade eder.
+External transfers: Where we transfer your Personal Data outside of YeniSen, for example to third parties mentioned in Section 1 above, we will do so in accordance with the applicable law while we will obtain contractual commitments from them to protect your Personal Data. To the extent that you are protected under the GDPR, we bring to your attention that some of these assurances are well recognized certification schemes like the EU - US Privacy Shield for the protection of Personal Data transferred from within the EU to the United States. In addition, we bring to your attention that Israel is a country declared as offering adequate level of data protection (see here: https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en
+).
 
-Hizmet Sağlayıcı, Şirket adına verileri işleyen herhangi bir gerçek veya tüzel kişiyi ifade eder. Şirket tarafından Hizmeti kolaylaştırmak, Şirket adına Hizmeti sağlamak, Hizmetle ilgili hizmetleri yerine getirmek veya Şirket'in Hizmet'in nasıl kullanıldığını analiz etmesine yardımcı olmak için istihdam edilen üçüncü taraf şirketleri veya kişileri ifade eder.
+Where we receive requests for Personal Data from law enforcement or regulators, we carefully validate these requests before any Personal Data is disclosed.
 
-Kullanım Verileri , Hizmetin kullanımıyla veya Hizmet altyapısının kendisinden otomatik olarak toplanan verileri ifade eder (örneğin, bir sayfanın ziyaret süresi).
+Your rights
+The following rights (which may be subject to certain exemptions or derogations), shall apply to certain individuals (some of which only apply to individuals protected by the GDPR in certain circumstances):
 
-Siz , Hizmete erişen veya Hizmeti kullanan kişi veya söz konusu kişinin Hizmete erişmesini veya Hizmeti kullanmasını sağlayan şirket veya diğer tüzel kişi anlamına gelir.
+You have a right to access information held about you. Your right of access is normally be exercised free of charge, however we reserve the right to charge an appropriate administrative fee where permitted by applicable law;
+You have the right to request that we amend any Personal Data we hold that it is inaccurate or misleading.
+You have the right to request the erasure of the Personal Data that relates to you. Please note that there may be circumstances in which we are required to retain your data, for example for the establishment, exercise or defense of legal claims;
+The right to object to or to request restriction of the processing. However, there may be circumstances in which we are legally entitled to refuse your request;
+The right to data portability. This means that you may have the right to receive your Personal Data in a structured, commonly used and machine-readable format, and that you have the right to transmit that data to another controller;
+You have the right to object to profiling;
+You have a right to lodge a complaint with your local data protection supervisory authority (i.e., your place of habitual residence, place or work or place of alleged infringement) at any time. We ask that you please attempt to resolve any issues with us before you contact your local supervisory authority
+The right to withdraw your consent. Please note that there may be circumstances in which we are entitled to continue processing your data, in particular if the processing is required to meet our legal and regulatory obligations.
+You also have a right to request details of the basis on which your Personal Data is transferred outside the European Economic Area, but you acknowledge that data transfer agreements may need to be partially redacted for reasons of commercial confidentiality.
+You can exercise your rights by contacting us at nevrahteknoloji@gmail.com
+. Subject to legal and other permissible considerations, we will make every reasonable effort to honor your request promptly or inform you if we require further information in order to fulfil your request. When processing your request, we may ask you for additional information to confirm your identity and for security purposes, before disclosing the Personal Data requested to you. We reserve the right to charge a fee where permitted by law, for instance if your request is manifestly unfounded or excessive.
 
-Kişisel Verilerinizin Toplanması ve Kullanılması
-Toplanan Veri Türleri
-Kişisel Veriler
-Hizmetimizi kullanırken, sizinle iletişime geçmek veya sizi tanımlamak için kullanılabilecek belirli kişisel olarak tanımlanabilir bilgileri bize sağlamanızı isteyebiliriz. Kişisel olarak tanımlanabilir bilgiler şunları içerebilir, ancak bunlarla sınırlı değildir:
+In the event that your request would adversely affect the rights and freedoms of others (for example, would impact the duty of confidentiality we owe to others) or if we are legally entitled to deal with your request in a different way than initial requested, we will address your request to the maximum extent possible, all in accordance with applicable law.
 
-E-posta adresi
+Use of anonymous information
+We may use Anonymous Information (as defined below) or disclose it to third party service providers in order to improve our application and services and enhance your experience with the application. We may also disclose Anonymous Information (with or without compensation) to third parties, including advertisers and partners. “Anonymous Information” means information which does not enable identification of an individual user, such as aggregated information about the use of our application.
 
-Kullanım Verileri
+Use by children
+We do not offer our products or services for use by children. If you are under 18, you may not use the product, or provide any information to the product without involvement of a parent or a guardian. We do not knowingly collect information from, and/or about children.
 
-Kullanım Verileri
-Hizmetin kullanımı sırasında Kullanım Verileri otomatik olarak toplanır.
+How can I delete my account?
+Should you ever decide to delete your Account, you may do so by emailing nevrahteknoloji@gmail.com
+. If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
 
-Kullanım Verileri, Cihazınızın İnternet Protokolü adresi (örneğin IP adresi), tarayıcı türü, tarayıcı sürümü, Hizmetimizin ziyaret ettiğiniz sayfaları, ziyaretinizin saati ve tarihi, bu sayfalarda harcanan süre, benzersiz cihaz tanımlayıcıları ve diğer tanılama verileri gibi bilgileri içerebilir.
+Links to and interaction with third party product
+The Product may enable you to interact with or contain links to your Third Party Account and other third party websites, mobile software applications and services that are not owned or controlled by us (each a “Third Party Service”). We are not responsible for the privacy practices or the content of such Third Party Services. Please be aware that Third Party Services may collect Personal Information from you. Accordingly, we encourage you to read the terms and conditions and privacy policy of each Third Party Service that you choose to use or interact with.
 
-Hizmete bir mobil cihaz aracılığıyla veya mobil cihazla eriştiğinizde, kullandığınız mobil cihazın türü, mobil cihazınızın benzersiz kimliği, mobil cihazınızın IP adresi, mobil işletim sisteminiz, kullandığınız mobil İnternet tarayıcısının türü, benzersiz cihaz tanımlayıcıları ve diğer tanılama verileri dahil ancak bunlarla sınırlı olmamak üzere belirli bilgileri otomatik olarak toplayabiliriz.
+Log files
+We may make use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, clicked pages and any other information your browser or mobile device may send to us. We may use such information to analyze trends, administer the application, track users’ movement around the application, and gather demographic information.
 
-Hizmetimizi ziyaret ettiğinizde veya Hizmete mobil cihazınız aracılığıyla veya aracılığıyla eriştiğinizde tarayıcınızın gönderdiği bilgileri de toplayabiliriz.
+Location Information
+YeniSen asks for location permissions for the sole purpose of providing location based reminders. No location information is stored on YeniSen servers.
 
-Kişisel Verilerinizin Kullanımı
-Şirket, Kişisel Verileri aşağıdaki amaçlar için kullanabilir:
+Contacts Information
+YeniSen asks for access to contact lists for the sole purpose of providing an easier way for users to collaborate with members of their contact list. When the user selects a contact from their list some details may be sent to our servers for generating an invitation for the selected contacts. Such details may include email address and contact name.
 
-Hizmetimizi sağlamak ve sürdürmek , Hizmetimizin kullanımını izlemek dahil.
+Cookies and other tracking technologies
+Our application may utilize “cookies”, anonymous identifiers and other tracking technologies in order for us to provide our Service and present you with information that is customized for you. A “cookie” is a small text file that may be used, for example, to collect information about activity on the application. Certain cookies and other technologies may serve to recall Personal Information, such as an IP address, previously indicated by a user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.
 
-Hesabınızı Yönetmek: Hizmet kullanıcısı olarak kaydınızı yönetmek. Sağladığınız Kişisel Veriler, kayıtlı bir kullanıcı olarak size sunulan Hizmetin farklı işlevlerine erişmenizi sağlayabilir.
+Use of External Analytics Tools
+We use analytics tools (e.g. Google Analytics) to collect data about the use of the application. Analytics tools collect data such as on how often users visit the application, what pages they visit when they do so and what website they directly came from to the application. We use the data we get from these tools to maintain and improve the application and our other products.
 
-Bir sözleşmenin ifası için: Satın aldığınız ürün, ürün veya hizmetlere ilişkin satın alma sözleşmesinin veya Hizmet aracılığıyla Bizimle yaptığınız herhangi bir diğer sözleşmenin geliştirilmesi, uyulması ve üstlenilmesi.
+U.S. Privacy Provisions
+California privacy rights. California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of Personal Data to third parties for their direct marketing purposes. To make such a request, please send an email to nevrahteknoloji@gmail.com
+. Please note that we are only required to respond to one request per customer each year.
 
-Sizinle İletişime Geçmek: Gerekli veya makul olduğunda, güvenlik güncellemeleri de dahil olmak üzere, işlevsellikler, ürünler veya sözleşmeli hizmetlerle ilgili güncellemeler veya bilgilendirici iletişimler konusunda e-posta, telefon görüşmeleri, SMS veya mobil uygulamanın anlık bildirimleri gibi diğer eşdeğer elektronik iletişim biçimleri aracılığıyla Sizinle iletişime geçmek.
+Our “California do not track” notice. We do not track consumers over time and across third-party websites and therefore do not respond to DO Not Track signals. We do not allow third parties to collect personally identifiable information about individuals consumer’s online activities over time and across different websites when a consumer uses the application.
 
-Daha önce satın aldığınız veya hakkında bilgi aldığınız ürünlere benzer diğer mal, hizmet ve etkinlikler hakkında size haberler, özel teklifler ve genel bilgiler sağlamak için ; ancak bu tür bilgileri almak istemediğinizi belirtmeniz durumunda.
+How to contact us
+If you have any questions, concerns or complaints regarding our compliance with this notice and the data protection laws, or if you wish to exercise your rights, we encourage you to first contact us at nevrahteknoloji@gmail.com
+.
 
-Taleplerinizi yönetmek için: Bize ilettiğiniz talepleri karşılamak ve yönetmek için.
-
-İşletme transferleri için: Hizmet kullanıcılarımız hakkında elimizde bulunan Kişisel Verilerin devredilen varlıklar arasında yer aldığı, devam eden bir işletme olarak veya iflas, tasfiye veya benzeri bir sürecin parçası olarak varlıklarımızın bir kısmının veya tamamının birleşme, elden çıkarma, yeniden yapılandırma, yeniden düzenleme, fesih veya başka bir satış veya transferini değerlendirmek veya gerçekleştirmek için Bilgilerinizi kullanabiliriz.
-
-Diğer amaçlar için : Bilgilerinizi, veri analizi, kullanım eğilimlerini belirleme, promosyon kampanyalarımızın etkinliğini belirleme ve Hizmetimizi, ürünlerimizi, hizmetlerimizi, pazarlamamızı ve deneyiminizi değerlendirme ve iyileştirme gibi diğer amaçlar için kullanabiliriz.
-
-Kişisel bilgilerinizi aşağıdaki durumlarda paylaşabiliriz:
-
-Hizmet Sağlayıcılarla: Hizmetimizin kullanımını izlemek ve analiz etmek, sizinle iletişime geçmek amacıyla kişisel bilgilerinizi Hizmet Sağlayıcılarla paylaşabiliriz.
-İşletme devirleri için: Şirket varlıklarının birleşmesi, satışı, finansmanı veya işletmemizin tamamının veya bir kısmının başka bir şirkete devredilmesiyle bağlantılı olarak veya bu tür müzakereler sırasında Kişisel Bilgilerinizi paylaşabilir veya devredebiliriz.
-Bağlı Şirketlerle: Bilgilerinizi bağlı şirketlerimizle paylaşabiliriz; bu durumda, bağlı şirketlerin bu Gizlilik Politikası'na uymasını zorunlu kılarız. Bağlı şirketler, ana şirketimizi ve diğer bağlı şirketleri, ortak girişim ortaklarını veya kontrol ettiğimiz veya bizimle ortak kontrol altında olan diğer şirketleri içerir.
-İş ortaklarımızla: Size belirli ürünleri, hizmetleri veya promosyonları sunmak için bilgilerinizi iş ortaklarımızla paylaşabiliriz.
-Diğer kullanıcılarla: Kişisel bilgilerinizi paylaştığınızda veya diğer kullanıcılarla ortak alanlarda etkileşimde bulunduğunuzda, bu bilgiler tüm kullanıcılar tarafından görüntülenebilir ve dışarıya dağıtılabilir.
-Onayınızla : Onayınızla kişisel bilgilerinizi başka herhangi bir amaçla ifşa edebiliriz.
-Kişisel Verilerinizin Saklanması
-Şirket, Kişisel Verilerinizi yalnızca bu Gizlilik Politikası'nda belirtilen amaçlar için gerekli olduğu sürece saklayacaktır. Kişisel Verilerinizi, yasal yükümlülüklerimize uymak (örneğin, yürürlükteki yasalara uymak için verilerinizi saklamamız gerekiyorsa), anlaşmazlıkları çözmek ve yasal sözleşmelerimizi ve politikalarımızı uygulamak için gerekli olduğu ölçüde saklayacak ve kullanacağız.
-
-Şirket ayrıca Kullanım Verilerini dahili analiz amaçları için de saklayacaktır. Kullanım Verileri genellikle daha kısa bir süre saklanır; ancak bu veriler Hizmetimizin güvenliğini güçlendirmek veya işlevselliğini iyileştirmek için kullanıldığında veya bu verileri daha uzun süreler boyunca saklamakla yasal olarak yükümlü olduğumuzda bu durum geçerli değildir.
-
-Kişisel Verilerinizin Aktarımı
-Kişisel Veriler de dahil olmak üzere bilgileriniz, Şirket'in faaliyet ofislerinde ve işleme dahil olan tarafların bulunduğu diğer yerlerde işlenir. Bu, söz konusu bilgilerin, veri koruma yasalarının sizin yargı bölgenizdekilerden farklı olabileceği eyaletiniz, iliniz, ülkeniz veya diğer hükümet yetki alanlarınızın dışındaki bilgisayarlara aktarılabileceği ve bu bilgisayarlarda saklanabileceği anlamına gelir.
-
-Bu Gizlilik Politikasını kabul etmeniz ve ardından bu bilgileri göndermeniz, söz konusu aktarımı kabul ettiğiniz anlamına gelir.
-
-Şirket, verilerinizin güvenli bir şekilde ve bu Gizlilik Politikası uyarınca işlenmesini sağlamak için makul ölçüde gerekli tüm adımları atacak ve verilerinizin ve diğer kişisel bilgilerinizin güvenliği de dahil olmak üzere yeterli kontrollerin mevcut olmadığı sürece Kişisel Verilerinizin bir kuruluşa veya bir ülkeye aktarımı gerçekleşmeyecektir.
-
-Kişisel Verilerinizi Silin
-Hakkınızda topladığımız Kişisel Verileri silme veya silinmesine yardımcı olmamızı talep etme hakkına sahipsiniz.
-
-Hizmetimiz, Hizmet içerisinden hakkınızdaki belirli bilgileri silme olanağı sağlayabilir.
-
-Hesabınız varsa, hesabınıza giriş yaparak ve kişisel bilgilerinizi yönetmenize olanak tanıyan hesap ayarları bölümünü ziyaret ederek bilgilerinizi istediğiniz zaman güncelleyebilir, değiştirebilir veya silebilirsiniz. Ayrıca, bize sağladığınız kişisel bilgilere erişim, düzeltme veya silme talebinde bulunmak için bizimle iletişime geçebilirsiniz.
-
-Ancak, yasal bir yükümlülüğümüz veya yasal bir dayanağımız olduğunda belirli bilgileri saklamamız gerekebileceğini lütfen unutmayın.
-
-Kişisel Verilerinizin Açıklanması
-Ticari İşlemler
-Şirket bir birleşme, satın alma veya varlık satışı sürecine girerse, Kişisel Verileriniz aktarılabilir. Kişisel Verileriniz aktarılmadan ve farklı bir Gizlilik Politikasına tabi olmadan önce bildirimde bulunacağız.
-
-Kolluk kuvvetleri
-Belirli durumlarda, Şirket, kanunen zorunlu olması veya kamu makamlarının (örneğin bir mahkeme veya bir devlet kurumu) geçerli taleplerine yanıt olarak Kişisel Verilerinizi ifşa etmek zorunda kalabilir.
-
-Diğer yasal gereklilikler
-Şirket, aşağıdaki durumlarda böyle bir eylemin gerekli olduğuna iyi niyetle inandığı takdirde Kişisel Verilerinizi ifşa edebilir:
-
-Yasal bir yükümlülüğe uymak
-Şirketin haklarını veya mallarını korumak ve savunmak
-Hizmetle bağlantılı olası yanlışları önlemek veya araştırmak
-Hizmet Kullanıcılarının veya kamuoyunun kişisel güvenliğini korumak
-Yasal sorumluluğa karşı koruma
-Kişisel Verilerinizin Güvenliği
-Kişisel Verilerinizin güvenliği bizim için önemlidir, ancak internet üzerinden hiçbir aktarım yönteminin veya elektronik depolama yönteminin %100 güvenli olmadığını unutmayın. Kişisel Verilerinizi korumak için ticari olarak kabul edilebilir yöntemler kullanmaya çalışsak da, mutlak güvenliğini garanti edemeyiz.
-
-Çocukların Gizliliği
-Hizmetimiz 13 yaşın altındaki kişilere yönelik değildir. 13 yaşın altındaki kişilerden bilerek kişisel olarak tanımlanabilir bilgi toplamıyoruz. Ebeveyn veya veliyseniz ve çocuğunuzun bize Kişisel Veri sağladığını biliyorsanız, lütfen bizimle iletişime geçin. Ebeveyn onayı doğrulanmadan 13 yaşın altındaki herhangi bir kişiden Kişisel Veri topladığımızı fark edersek, bu bilgileri sunucularımızdan kaldırmak için adımlar atarız.
-
-Bilgilerinizi işlemek için yasal bir dayanak olarak onaya güvenmemiz gerekiyorsa ve ülkeniz bir ebeveynin onayını gerektiriyorsa, bu bilgileri toplamadan ve kullanmadan önce ebeveyninizin onayını isteyebiliriz.
-
-Diğer Web Sitelerine Bağlantılar
-Hizmetimiz, tarafımızca işletilmeyen diğer web sitelerine bağlantılar içerebilir. Üçüncü taraf bir bağlantıya tıklarsanız, söz konusu üçüncü tarafın sitesine yönlendirilirsiniz. Ziyaret ettiğiniz her sitenin Gizlilik Politikasını incelemenizi önemle tavsiye ederiz.
-
-Üçüncü taraf sitelerin veya hizmetlerin içeriği, gizlilik politikaları veya uygulamaları üzerinde hiçbir kontrolümüz yoktur ve hiçbir sorumluluk kabul etmiyoruz.
-
-Bu Gizlilik Politikasındaki Değişiklikler
-Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Yeni Gizlilik Politikasını bu sayfada yayınlayarak herhangi bir değişiklik olması durumunda sizi bilgilendireceğiz.
-
-Değişikliğin yürürlüğe girmesinden önce size e-posta ve/veya Hizmetimizde belirgin bir bildirim yoluyla bilgi vereceğiz ve bu Gizlilik Politikasının en üstünde yer alan "Son güncelleme" tarihini güncelleyeceğiz.
-
-Herhangi bir değişiklik olup olmadığını kontrol etmek için bu Gizlilik Politikasını düzenli olarak incelemeniz önerilir. Bu Gizlilik Politikası'ndaki değişiklikler, bu sayfada yayınlandığı andan itibaren geçerli olur.
-
-Bize Ulaşın
-Bu Gizlilik Politikası hakkında herhangi bir sorunuz varsa bizimle iletişime geçebilirsiniz:
-
-E-posta ile: nevrahteknoloji@gmail.com
+If you are an individual subject to the GDPR, you can read more about your rights here: https://ec.europa.eu/info/law/law-topic/data-protection_en
