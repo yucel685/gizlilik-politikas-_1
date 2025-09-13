@@ -20,10 +20,74 @@ We greatly respect your privacy, which is why we make every effort to provide a 
 This Privacy Policy may be updated from time to time and therefore we ask you to check back periodically for the latest version of the Privacy Policy, as indicated below. If there will be any significant changes made to the use of your Personal Data in a manner different from that stated at the time of collection, we will notify you by posting a notice in our application or by other means.
 
 1-What information we collect, why we collect it, and how it is used
-When you create an account and make use of our services as a registered user
-When you browse or visit our application
-When you contact us (e.g. customer support, help, submit a request)
-When we process your job application
+-When you create an account and make use of our services as a registered user
+    
+        Data we collect
+        
+        Google Id / Email
+        Full name
+        Hashed password
+        Analytics events (how the product is being used)
+        Why we collect this data
+        
+        Creating an account
+        To personalize the services
+        Processing the order of the Service
+        Performing/executing the Service
+        Legal basis (GDPR only)
+        Processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract.
+        
+        Third parties with whom we share your data
+        3rd party platforms such as for the following purposes:
+        
+        Hosting
+        Vendors
+        Period of storage
+        Until you send a deletion request or we proactively decide to delete the data. Please note that under applicable laws, we may be required to retain the data for a longer or a shorter period.
+        
+        Consequences of not providing the data
+        
+        Cannot create an account
+        Cannot personalize the Service
+        Cannot process the Service order and perform the agreement
+
+-When you browse or visit our application
+    Data we collect
+    Cookies
+    
+    Why we collect this data
+    
+    To provide our service and certain features of the product
+    To improve our product and quality of service
+    Legal basis (GDPR only)
+    Consent
+-When you contact us (e.g. customer support, help, submit a request)
+      Data we collect
+      
+      Full name
+      Email address
+      Device type
+      Version of the product being used
+      OS version being used
+      Any other information that you decide to provide/supply us
+      Why we collect this data
+      
+      To assist you
+      To respond your query
+      Legal basis (GDPR only)
+      Processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract
+      
+      Third parties with whom we share your data
+      3rd party platforms such as for the following purposes:
+      
+      Customer support services
+      Period of storage
+      Until we no longer need the information and proactively delete it or you send a valid deletion request. Please note that we may retain it for a longer or shorter period in accordance with data retention laws.
+      
+      Consequences of not providing the data
+      Cannot assist you and respond your query
+
+
 
 2-How we protect and store your personal data
 Security. We have implemented appropriate technical, organizational and security measures designed to reduce the risk of accidental destruction or loss, or the unauthorized disclosure or access to such information appropriate to the nature of the information concerned. However, please note that we cannot guarantee that the information will not be exposed as a result of unauthorized penetration to our servers. As the security of information depends in part on the security of the computer, device or network you use to communicate with us and the security you use to protect your user IDs and passwords, please make sure to take appropriate measures to protect this information.
