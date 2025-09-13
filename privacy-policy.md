@@ -41,7 +41,6 @@ Where you have provided your consent to us sharing the Personal Data (e.g., wher
 Where we receive requests for information from law enforcement or regulators, we carefully validate these requests before any Personal Data is disclosed.
 
 4-Additional information regarding transfers of personal data
-Access from Israel is covered by the Adequacy Decision issued by the European Commission about Israel, where it stated that Israel is a jurisdiction that provides adequate level of data protection.
 
 Internal transfers: Your Personal Data may be transferred within the YeniSen group. We implement sufficient measures to ensure that Personal Data receives an adequate and consistent level of protection wherever it is transferred to;
 
