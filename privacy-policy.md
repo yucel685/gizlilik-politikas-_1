@@ -146,25 +146,22 @@ The Product may enable you to interact with or contain links to your Third Party
 10-Log files
 We may make use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, clicked pages and any other information your browser or mobile device may send to us. We may use such information to analyze trends, administer the application, track users’ movement around the application, and gather demographic information.
 
-11-Location Information
-YeniSen asks for location permissions for the sole purpose of providing location based reminders. No location information is stored on YeniSen servers.
-
-12-Contacts Information
+11-Contacts Information
 YeniSen asks for access to contact lists for the sole purpose of providing an easier way for users to collaborate with members of their contact list. When the user selects a contact from their list some details may be sent to our servers for generating an invitation for the selected contacts. Such details may include email address and contact name.
 
-13-Cookies and other tracking technologies
+12-Cookies and other tracking technologies
 Our application may utilize “cookies”, anonymous identifiers and other tracking technologies in order for us to provide our Service and present you with information that is customized for you. A “cookie” is a small text file that may be used, for example, to collect information about activity on the application. Certain cookies and other technologies may serve to recall Personal Information, such as an IP address, previously indicated by a user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.
 
-14-Use of External Analytics Tools
+13-Use of External Analytics Tools
 We use analytics tools (e.g. Google Analytics) to collect data about the use of the application. Analytics tools collect data such as on how often users visit the application, what pages they visit when they do so and what website they directly came from to the application. We use the data we get from these tools to maintain and improve the application and our other products.
 
-15-U.S. Privacy Provisions
+14-U.S. Privacy Provisions
 California privacy rights. California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of Personal Data to third parties for their direct marketing purposes. To make such a request, please send an email to nevrahteknoloji@gmail.com
 . Please note that we are only required to respond to one request per customer each year.
 
 Our “California do not track” notice. We do not track consumers over time and across third-party websites and therefore do not respond to DO Not Track signals. We do not allow third parties to collect personally identifiable information about individuals consumer’s online activities over time and across different websites when a consumer uses the application.
 
-16-How to contact us
+15-How to contact us
 If you have any questions, concerns or complaints regarding our compliance with this notice and the data protection laws, or if you wish to exercise your rights, we encourage you to first contact us at nevrahteknoloji@gmail.com
 .
 
